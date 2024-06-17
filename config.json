@@ -1,8 +1,8 @@
 {
-    "title":"杨秋均学习",  //必填 博客标题
-    "subTitle":"学习是一种生活态度，仅此而已。",  //必填 博客描述
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",  //博客头像
-    "GMEEK_VERSION":"last",    //必填 Gmeek版本
+    "title":"杨秋均学习", 
+    "subTitle":"学习是一种生活态度，仅此而已。",  
+    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",  
+    "GMEEK_VERSION":"last",   
     "displayTitle":"杨秋均学习记录",
     "homeUrl":"http://blog.meekdai.com",
 "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
