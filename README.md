@@ -1,6 +1,6 @@
-# 学习博客 :link: https://aaaayoung.github.io 
-### :page_facing_up: [1](https://aaaayoung.github.io/tag.html) 
+# 学习博客 :link: http://blog.meekdai.com 
+### :page_facing_up: [1](http://blog.meekdai.com/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 8 
-### :alarm_clock: 2024-06-17 12:34:50 
+### :alarm_clock: 2024-06-17 12:39:06 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
